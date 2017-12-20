@@ -1,0 +1,6 @@
+d:\documents\visual studio 2012\Projects\12_11\WheelFindLine\bin\Debug\WheelFindLine.exe.config
+d:\documents\visual studio 2012\Projects\12_11\WheelFindLine\bin\Debug\WheelFindLine.exe
+d:\documents\visual studio 2012\Projects\12_11\WheelFindLine\bin\Debug\WheelFindLine.pdb
+d:\documents\visual studio 2012\Projects\12_11\WheelFindLine\obj\Debug\WheelFindLine.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\12_11\WheelFindLine\obj\Debug\WheelFindLine.exe
+d:\documents\visual studio 2012\Projects\12_11\WheelFindLine\obj\Debug\WheelFindLine.pdb

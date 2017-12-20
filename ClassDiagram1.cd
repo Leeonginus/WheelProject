@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WheelFindLine.arigithm" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAQAAAAAAAAACAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>arigithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WheelFindLine.DataMannger" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>DataMannger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WheelFindLine.TxtMessage" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAQACAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataMannger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WheelFindLine.GlobalData" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAQAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GlobalData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WheelFindLine.Program" Collapsed="true">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
