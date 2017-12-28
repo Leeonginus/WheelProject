@@ -136,9 +136,14 @@ namespace WheelFindLine
             return dic;
         }
 
+        /// <summary>
+        /// 7200算法
+        /// </summary>
+        /// <returns></returns>
         public static int Find_7200()
         {
             int coreLine = 0;
+
             return coreLine;
         }
     }
